@@ -6,6 +6,25 @@
 
 header{
   width: 100%;
-  height: 50px;
-  background-color: brown;
+  height: 70px;
+  background-color: #0b090a;
+  border-bottom: 0.5px solid white;
+}
+.container h2{
+  color: #ba181b;
+}
+.container i.fa-brands{
+  color: #ba181b;
+}
+main{
+  background-color: #161a1d;
+}
+.container .row .card{
+  background-color: #0b090a;
+}
+.container .row .card h5{
+  color: #ba181b;
+}
+.container .row .card p{
+  color: #e5383b;
 }
